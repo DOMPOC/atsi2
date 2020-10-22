@@ -1,0 +1,189 @@
+header p{
+	display: inline-block;
+	margin: 0 auto;
+	color: #3d4775;
+}
+
+.icons{
+	position: absolute;
+	top: 0;
+	right: 25%;
+}
+.icons i{
+	margin:10px;
+}
+.navi{
+	height: 150px;
+	padding-top: 45px;
+
+}
+.navi i{
+	position: absolute;
+	right: 0;
+	top: -10%;
+}
+.navi img{
+	position: absolute;
+	left: 20%;
+}
+.navibar{
+	text-align: center;
+	position: absolute;
+	top: 90%;
+	left: 30%;
+}
+.navibar a{
+	color: #3d4775;
+}
+.navibar{
+	color: #0c6fa8;
+}
+.navibar li{
+	color: #0c6fa8;
+}
+.photo{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+section{
+	padding-top: 40px;
+	text-align: center;
+}
+section h2{
+	color:#3d4775; 
+}
+section p{
+	color: #22294a;
+	padding-top: 40px;
+}
+.card1 h2{
+	display: inline-block;
+	margin:0 auto;
+}
+.card2 h2{
+	display: inline-block;
+	margin: 0 auto;
+}
+.card3 h2{
+	display: inline-block;
+	margin: auto;
+}
+.icon .far{
+	font-size: 45px;
+	color:#3d4775; 
+}
+.icon{
+	width: 100%;
+	display: inline-flex;
+	flex-direction:row;
+	justify-content:space-around;
+	margin: auto;
+
+}
+.card1 p{
+	text-align: center;
+}
+.card2 p{
+	text-align: center;
+}
+.card3 p{
+	text-align: center;
+}
+.work h2{
+	left: 50%; 
+}
+.work {
+	padding-top: 10%;
+}
+.cards h5{
+	color:#3d4775; 
+}
+.cards{
+	padding:0 auto;
+	display: inline-block;
+	margin: 0 auto;
+}
+.slideshow img{
+	padding-right: 2%;
+
+}
+.dots{
+	display: inline-block;
+	padding-top: 3%;
+	padding-right: 2%;
+}
+main article h2{
+	text-align: center;
+	color:#3d4775;
+	padding-top: 15%; 
+}
+main article p{
+	text-align: center;
+	color: #22294a;
+	padding-top: 4%;
+}
+.btn{
+	background-color: #0fba5c;
+}
+.button{
+	text-align: center;
+}
+.ending h5{
+	display: inline-block;
+	padding: 5%;
+	color: #ffffff;
+}
+.ending{
+	background-color:#29364a;
+	width: 100%;
+}
+.who p{
+	padding-top: 2%;
+	color: #add6d9;
+	text-align: left;
+	padding-left: 35%;
+}
+.who p img{
+	padding-left: 0;
+
+}
+.latest p{
+	text-align: left;
+	padding-left: 35%;
+}
+.get p{
+	text-align: left;
+	padding-left: 35%;
+	color: #add6d9;
+	margin-top:-8%;
+}
+.free{
+	left: -3%;
+}
+.free p{
+	margin-top: -10%;
+	color:#add6d9;
+	text-align: left;
+	padding-left: 35%; 
+}
+.foot{
+	display: flex;
+	flex-flow: row
+	color:#1b1e36;
+}
+.antras{
+	justify-content: flex-end;
+	width: 80%;
+	background-color: #1b1e36;
+}
+.pirmas{
+	background-color: #1b1e36;
+}
+.antras p {
+	color: #add6d9;
+}
+.pirmas p {
+	color: #add6d9;
+}
+
